@@ -5,7 +5,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <strong>
-  I'm a dedicated software developer passionate about turning ideas into reality through elegant code and innovative solutions. Fueled by curiosity and a relentless pursuit of knowledge, I am currently based in Canada, studying Artificial Intelligence and Data Analysis. I am actively seeking opportunities to expand my skills and contribute to exciting projects. Additionally, I am a Pega Certified System Architect(V.23). 🌍💻
+  I'm a dedicated software developer passionate about turning ideas into reality through elegant code and innovative solutions. Fueled by curiosity and a relentless pursuit of knowledge, I am currently based in Canada, studied Software Development and also Artificial Intelligence and Data Analysis. I am actively seeking opportunities to expand my skills and contribute to exciting projects. Additionally, I am a Pega Certified System Architect(V.23). 🌍💻
 </strong>
 
 🏫 <b>Current Course:</b> Software Development (Artificial Intelligence and Data Analysis) 📚🤖
